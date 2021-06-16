@@ -1,6 +1,6 @@
 ## 😺 Hello Friends!
 
-![](https://komarev.com/ghpvc/?username=eddyspaghette&color=red&style=plastic&label=Friend+Count)
+![](https://komarev.com/ghpvc/?username=eddyspaghette&color=red&style=plastic&label=Friends+Seen+On+My+Page)
 
 - 👨‍🎓 I'm a student at SFU studying IT & Business. I'm interested in full-stack and my recent focus is on information security. 
 - 🔏 I’m currently on TryHackMe finishing up their offensive penetration course.
