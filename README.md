@@ -19,7 +19,7 @@
 
 
 
-## 💻 My Toolbox
+## 💻 Techstack
 
  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top margin:6px 4px">
@@ -37,9 +37,12 @@
 ## 📊 Interesting Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyspaghette&show_icons=true&theme=dracula&border_radius=55)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyspaghette&layout=compact&theme=dracula&border_radius=55)](https://github.com/anuraghazra/github-readme-stats)
-
-<i class="devicon-bash-plain"></i>
-
+<details>
+   <summary>
+      Disclaimer
+   </summary>
+   Usage does not equate to proficiency. Please do not take these stats seriously.
+</details>
 <!--
 **eddyspaghette/eddyspaghette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
