@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm a student at SFU studying Computer Science. I'm interested in full-stack and my recent focus is on information security. 
 - 🔏 I’m currently on TryHackMe finishing up their offensive penetration certificate.
 - ✏️ I do write-ups on TryHackMe, CTFs, and HackTheBox over at my [website](https://eddyspaghette.github.io).
-- 🛠️ Working on expanding my technology toolbox: currently learning how to write [shell scripts](https://en.wikipedia.org/wiki/Shell_script) and [PHP](https://en.wikipedia.org/wiki/PHP)
+- 🛠️ Working on expanding my technology toolbox: currently learning [PHP](https://en.wikipedia.org/wiki/PHP)
 
 
    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/php.svg" alt="php" style="vertical-align:top margin:6px 4px">
