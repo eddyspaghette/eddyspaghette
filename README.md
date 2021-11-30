@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=eddyspaghette&color=red&style=plastic&label=Friends+Seen+On+My+Page)
 
-- 👨‍🎓 I'm a student at SFU studying Computer Science. I'm interested in full-stack and my recent focus is on information security. 
+- 👨‍🎓 I'm a student at SFU studying Computer Science. My recent focus is on information security. 
 - 🔏 I’m currently on TryHackMe finishing up their offensive penetration certificate.
 - ✏️ I do write-ups on TryHackMe, CTFs, and HackTheBox over at my [website](https://eddyspaghette.github.io).
 - 🛠️ Working on expanding my technology toolbox: currently learning [PHP](https://en.wikipedia.org/wiki/PHP)
