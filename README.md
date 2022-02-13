@@ -29,13 +29,7 @@
 ## 📊 Interesting Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyspaghette&show_icons=true&theme=dracula&border_radius=55)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyspaghette&layout=compact&theme=dracula&border_radius=55)](https://github.com/anuraghazra/github-readme-stats)
-<details>
-   <summary>
-      Disclaimer
-   </summary>
-   Usage does not equate to proficiency. Please do not take these stats seriously. 
-   I also do not list all technology I am familiar with because I like to keep things clean.
-</details>
+
 <!--
 **eddyspaghette/eddyspaghette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
