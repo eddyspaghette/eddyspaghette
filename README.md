@@ -20,7 +20,6 @@ doin some HTB stuff rn
   
   
 ## 📊 Interesting Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyspaghette&show_icons=true&theme=dracula&border_radius=55)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyspaghette&layout=compact&theme=dracula&border_radius=55)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
