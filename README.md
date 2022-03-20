@@ -17,9 +17,6 @@ doin some HTB stuff rn
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/devices/mac.svg" alt="mac" style="vertical-align:top margin:6px 4px">
  
   </a>  
-  
-  
-## 📊 Interesting Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyspaghette&layout=compact&theme=dracula&border_radius=55)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
