@@ -1,11 +1,9 @@
 doin some HTB stuff rn
 
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/email_me.svg" alt="email" style="vertical-align:top margin:4px 4px">](mailto:edwardjjz@hotmail.com)
-[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/twitter.svg" alt="twitter" style="vertical-align:top margin:4px 4px">](https://twitter.com/eddylongevity)
-[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:4px 4px">](mailto:edwardjjz@hotmail.com)
 
  
- 
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyspaghette&layout=compact&theme=dracula&border_radius=55)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
